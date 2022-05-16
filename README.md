@@ -1,4 +1,4 @@
-# -R-labs-4
+# Machine-Vision-Lab-4
 
 Using packages:
 - tensorflow
